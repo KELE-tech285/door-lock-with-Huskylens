@@ -62,3 +62,4 @@ Use I2C mode for better serial management if your board supports it.
 Mount the HuskyLens in a fixed position for consistent detection.
 
 Adjust the servo angle to match your locking mechanism.
+1000001723.jpg
