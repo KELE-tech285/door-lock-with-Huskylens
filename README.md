@@ -63,10 +63,11 @@ Mount the HuskyLens in a fixed position for consistent detection.
 
 Adjust the servo angle to match your locking mechanism.
 
-![1000001723](https://github.com/user-attachments/assets/680c4004-a64d-4cd3-b757-4b64d6eaea58)
-![1000001724](https://github.com/user-attachments/assets/7871c48a-6b8c-4265-895c-af25ac3105ee)
-![1000001725](https://github.com/user-attachments/assets/f424928c-b867-4da9-90ae-6d64ddb0258f)
-![1000001726](https://github.com/user-attachments/assets/19ff3388-3e1e-40d8-8bae-cef1aff083b3)
-![1000001727](https://github.com/user-attachments/assets/a2769dff-f0a2-4f16-97a8-e934374edefd)
+![1000001723](https://github.com/user-attachments/assets/d5c54161-596f-4925-a6c5-d31c1127c693)
+![1000001727](https://github.com/user-attachments/assets/d1af9127-a1d3-48d3-9cad-cc276d0d0a42)
+![1000001726](https://github.com/user-attachments/assets/1fb22020-4b6a-4203-a177-134710c2ecbb)
+![1000001725](https://github.com/user-attachments/assets/96c95ae8-8240-4920-b052-6a6d67f49afa)
+![1000001724](https://github.com/user-attachments/assets/27a1a0a9-5b36-44ad-bc0f-33f28a1c3904)
+
 
 
