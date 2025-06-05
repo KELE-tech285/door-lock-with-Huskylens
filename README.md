@@ -68,6 +68,3 @@ Adjust the servo angle to match your locking mechanism.
 ![1000001726](https://github.com/user-attachments/assets/1fb22020-4b6a-4203-a177-134710c2ecbb)
 ![1000001725](https://github.com/user-attachments/assets/96c95ae8-8240-4920-b052-6a6d67f49afa)
 ![1000001724](https://github.com/user-attachments/assets/27a1a0a9-5b36-44ad-bc0f-33f28a1c3904)
-
-
-
